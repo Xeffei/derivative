@@ -8,7 +8,7 @@ public class derivative {
 	
 		public static double func(double x) {
 				
-				return     (3.14*x*x/2) + (0.002/x); // write here your on function
+				return     (3.14*x*x/2) + (0.002/x); // write here your own function
 				
 				}
 	
